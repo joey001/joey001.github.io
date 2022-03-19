@@ -1,10 +1,15 @@
 site_name: Yi Zhou's Homepage
+nav:
+ - Home: index.md
+ - Research: research/publication.md
+ - AEGroup: aegroup/aegroup.md
 theme:
   name: material
   language: en
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+ #   - header.autohide
 markdown_extensions:
   - meta
 
