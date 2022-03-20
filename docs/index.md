@@ -2,9 +2,9 @@
 
 Hi, welcome to my personal page. 
 
-I am Yi Zhou, an associate professor in the computer science department of the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, P.R. China. I am also a member of the [Algorithms and Logic Lab](https://tcs.uestc.edu.cn/) in UESTC.
+I am Yi Zhou, an associate professor in the computer science department of the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, P.R. China. I am also a member of the [Algorithms and Logic Lab](https://tcsuestc.com/) in UESTC.
 
-I obtained the PhD degree of Computer Science from the [Universit&eacute; d'Angers, France](https://www.univ-angers.fr/fr/index.html) in 2017. My PhD supervisor is Prof.  [Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/), a [senior IUF member](https://en.wikipedia.org/wiki/Institut_Universitaire_de_France). I got MS and BS degrees of Computer Science from UESTC in 2010 and 2013, respectively.
+I obtained PhD degree of Computer Science from the [Universit&eacute; d'Angers, France](https://www.univ-angers.fr/fr/index.html) in 2017. My PhD supervisor is Prof.  [Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/), a [senior IUF member](https://en.wikipedia.org/wiki/Institut_Universitaire_de_France). I got MS and BS degrees of Computer Science from UESTC in 2010 and 2013, respectively.
 
 Contact: zhou.yi[at]uestc[dot]edu[dot]cn
 

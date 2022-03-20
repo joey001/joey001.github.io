@@ -48,4 +48,4 @@
 
 ## Reviewing Services
 - Conferences: CIKM 2021, AAAI 2022, WWW 2022
-- Journals:  European Journal of Operational Research,  Journal of Artificial Intelligence Research.
+- Journals:  European Journal of Operational Research,  Computers & Operations Research, Journal of Artificial Intelligence Research.

@@ -19,8 +19,7 @@ Drop me a mail if you are interested in coding and optimization.
 - 张逸伟：2021-Now.
 
 ### Undergraduate students
-I also welcome undergraduate who likes code optimization and algorithm design to join my group. 
-Here is a partial list of undergraduate students in ALEG. 
+A partial list of undergraduate students in ALEG. 
 
 - 王正仁：2019-Now
 - 刘致廷：2019-Now
