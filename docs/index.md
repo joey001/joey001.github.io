@@ -1,4 +1,5 @@
-<img src="./myphoto.jpg" style="zoom:30%;" />
+<img src="./myphoto.jpg" style="zoom:45%;" align="right"/>
+
 
 Hi, welcome to my personal page. 
 
@@ -6,12 +7,12 @@ I am Yi Zhou, an associate professor in the computer science department of the [
 
 I obtained PhD degree of Computer Science from the [Universit&eacute; d'Angers, France](https://www.univ-angers.fr/fr/index.html) in 2017. My PhD supervisor is Prof.  [Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/), a [senior IUF member](https://en.wikipedia.org/wiki/Institut_Universitaire_de_France). I got MS and BS degrees of Computer Science from UESTC in 2010 and 2013, respectively.
 
-Contact: zhou.yi[at]uestc[dot]edu[dot]cn
+:material-email: zhou.yi[at]uestc[dot]edu[dot]cn
 
 # Research 
 I am interested in the design and analysis of practical algorithms, i.e., algorithms that work well in practice. In a more broad perspective, I study [Algorithm Engineering](aegroup/aegroup.md). My  recent work mainly focus on fast algorithms for some hard graph problems. 
 
-You can refer to my [Publication](research/publication.md) or [DBLP](https://dblp.org/pid/01/1901-16.html) pages for more information.
+You can refer to my [:material-file-sign:publications](research/publication.md) or my [DBLP](https://dblp.org/pid/01/1901-16.html) page.
 
 # Courses
 I am a member of the algorithm teaching group in the CS departement of UESTC.

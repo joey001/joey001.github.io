@@ -5,10 +5,8 @@ By Wiki, [**Algorithm Engineering**](https://en.wikipedia.org/wiki/Algorithm_eng
 We currently work on some well-known hard combinatorial  optimization problems. We develop heuristics combinatorial search, integer linear programs, parallel methods etc., and investigate both their empirical and theoretical performances.
 
 
-<font color=red>**Note**</font>: we recruite talent **undergraduates** all the year round.
+<font color=red>**NOTICE**</font>: we recruite talent **undergraduates** all the year round.
 Drop me a mail if you are interested in coding and optimization.  
-
-
 
 ## Members
 ### Graduate students
@@ -21,14 +19,17 @@ Drop me a mail if you are interested in coding and optimization.
 ### Undergraduate students
 A partial list of undergraduate students in ALEG. 
 
+- 邹良钰: 2021-Now
+- 丛宇：2021-Now
+- 李奕聪: 2020-Now
 - 王正仁：2019-Now
 - 刘致廷：2019-Now
 - 罗春雨: 2019-Now
 - 代宇涛: 2019-Now
-- 熊子良: 2019-2021, Current: Master candidate in ALG LAb in UESTC
+- 熊子良: 2019-2021, Current: Master candidate in ALG Lab in UESTC
 
 ### Alumni
-
+- 刘雨曦： 209-2021(拔尖计划): Current: PhD candidate in ALG Lab in UESTC.
 - 陈小羽:  2018-2020(拔尖计划).  Current: PhD candidate at Nanjing University.
 - 徐经纬: 2019-2021(拔尖计划).  Current: PhD Candidate at Shanghai Jiaotong University.
 
