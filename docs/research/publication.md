@@ -1,13 +1,13 @@
 ## Publications
-*Feel free to contact me if you have any problem in obtaining these papers.*
+17. **Yi Zhou**, Shan Hu, Zimo Sheng, Extracting Densest Sub-hypergraph with Convex Edge-weight Functions. To appear at the *International Conference on Theory and Applications of Models of Computation (**TAMC).* 2022. 
 
 16. Zhengren Wang, **Yi Zhou\***, Mingyu Xiao, Bakhadyr Khoussainov. Listing Maximal *k*-Plexes in Large Real-World Graphs. *The Web Conference 2022* [:material-file:PDF](https://arxiv.org/abs/2202.08737). [:material-code-array:CODE](https://github.com/joey001/ListPlex)
 
-15. **Yi Zhou**, Weibo Lin, Jin-Kao Hao*, Mingyu Xiao, Yan Jin. An effective branch-and-bound algorithm for the maximum s-bundle problem.  *European Journal of Operational Research. May 2021.*  [:material-file:PDF](https://www.sciencedirect.com/science/article/pii/S0377221721003957) , [:material-code-array:CODE](https://github.com/joey001/max-s-bundle)
+15. **Yi Zhou**, Weibo Lin, Jin-Kao Hao\*, Mingyu Xiao, Yan Jin. An effective branch-and-bound algorithm for the maximum s-bundle problem.  *European Journal of Operational Research. May 2021.*  [:material-file:PDF](https://www.sciencedirect.com/science/article/pii/S0377221721003957) , [:material-code-array:CODE](https://github.com/joey001/max-s-bundle)
 
 14. Mingyu Xiao, Sen Huang, **Yi Zhou**, Bolin Ding. Efficient Reductions and A Fast Algorithm of Maximum Weighted Independent Set. The Web Conference 2021 conference. [:material-file:PDF](https://dl.acm.org/doi/10.1145/3442381.3450130)，[:material-video:Video](https://www.youtube.com/watch?v=dtc47VBUSvg)
 
-13. Zhi Lu, **Yi Zhou***, Jin-Kao Hao*. A hybrid evolutionary algorithm for the Clique Partitioning Problem. *IEEE Transactions on Cybernetics*. [:material-file:PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364920)
+13. Zhi Lu, **Yi Zhou\****, Jin-Kao Hao\*. A hybrid evolutionary algorithm for the Clique Partitioning Problem. *IEEE Transactions on Cybernetics*. [:material-file:PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9364920)
 
 12. Zhenyu Guo, Mingyu Xiao, **Yi Zhou**, Dongxiang Zhang, Kian-Lee Tan. Enhancing Balanced Graph Edge Partition with Effective Local Search. *The 35**th* *AAAI Conference on Artificial Intelligence*, 2021. [:material-file:PDF](https://arxiv.org/abs/2012.09451)
 
@@ -34,10 +34,12 @@
 
 1. **Yi Zhou**, Jin-Kao Hao, Adrien Goëffon. A three-phased local search approach for the clique partitioning problem. *Journal of Combinatorial Optimization* 32 (2), 469-491. 2016 [:material-file:PDF](https://www.springerprofessional.de/en/a-three-phased-local-search-approach-for-the-clique-partitioning/11733054)
 
-## Talks
+*Please feel free to contact me if you have any problem in obtaining the paper.*
 
-1. Fast exact algorithms for maximum relaxed clique problems.  Seminar of Operations Research Society of China. Shandon, May. 2019 
-2. L’opérateur PUSH pour la résolution approchée du problème de la clique de poids maximum. ROADEF, Metz, France, 2017
+## Talks
+3. Finding Large Relaxed Cliques: Theory and Practice. School of Management, Northwestern Polytechnical University, June 2022.
+2. Fast exact algorithms for maximum relaxed clique problems.  Seminar of Operations Research Society of China. Shandon, May. 2019 
+1. L’opérateur PUSH pour la résolution approchée du problème de la clique de poids maximum. ROADEF, Metz, France, 2017
 
 ## Funds
 
@@ -48,5 +50,5 @@
 
 
 ## Reviewing Services
-- Conferences: CIKM 2021, AAAI 2022, WWW 2022
+- Conferences:  AAAI 2022, CIKM 2021-2022, WWW 2022, WSDM 2022
 - Journals:  European Journal of Operational Research,  Computers & Operations Research, Journal of Artificial Intelligence Research.
