@@ -1,5 +1,5 @@
 ## Publications
-17. **Yi Zhou**, Shan Hu, Zimo Sheng, Extracting Densest Sub-hypergraph with Convex Edge-weight Functions. *International Conference on Theory and Applications of Models of Computation (TAMC)*. [:material-file:PDF(full version)](https://arxiv.org/abs/2207.08340) 2022. *To appear*. 
+17. **Yi Zhou**, Shan Hu, Zimo Sheng, Extracting Densest Sub-hypergraph with Convex Edge-weight Functions. *International Conference on Theory and Applications of Models of Computation (TAMC)* 2022. *To appear*. [:material-file:PDF(full version)](https://arxiv.org/abs/2207.08340) 
 
 16. Zhengren Wang, **Yi Zhou\***, Mingyu Xiao, Bakhadyr Khoussainov. Listing Maximal *k*-Plexes in Large Real-World Graphs. *The Web Conference 2022* [:material-file:PDF](https://arxiv.org/abs/2202.08737). [:material-code-array:CODE](https://github.com/joey001/ListPlex)
 
