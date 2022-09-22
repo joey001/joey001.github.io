@@ -1,5 +1,5 @@
 ## Publications
-17. **Yi Zhou**, Shan Hu, Zimo Sheng, Extracting Densest Sub-hypergraph with Convex Edge-weight Functions. *International Conference on Theory and Applications of Models of Computation (TAMC)* 2022. *To appear*. [:material-file:PDF(full version)](https://arxiv.org/abs/2207.08340) 
+17. **Yi Zhou**, Shan Hu, Zimo Sheng, Extracting Densest Sub-hypergraph with Convex Edge-weight Functions. *International Conference on Theory and Applications of Models of Computation (TAMC)* 2022. [:material-file:PDF(full version)](https://arxiv.org/abs/2207.08340) 
 
 16. Zhengren Wang, **Yi Zhou\***, Mingyu Xiao, Bakhadyr Khoussainov. Listing Maximal *k*-Plexes in Large Real-World Graphs. *The Web Conference 2022* [:material-file:PDF](https://arxiv.org/abs/2202.08737). [:material-code-array:CODE](https://github.com/joey001/ListPlex)
 
@@ -34,18 +34,17 @@
 
 1. **Yi Zhou**, Jin-Kao Hao, Adrien Goëffon. A three-phased local search approach for the clique partitioning problem. *Journal of Combinatorial Optimization* 32 (2), 469-491. 2016 [:material-file:PDF](https://www.springerprofessional.de/en/a-three-phased-local-search-approach-for-the-clique-partitioning/11733054)
 
-*Please feel free to contact me if you have any problem in obtaining the paper.*
+<!--Please feel free to contact me if you have any problem in obtaining the paper.-->
 
 ## Talks
 3. Finding Large Relaxed Cliques: Theory and Practice. School of Management, Northwestern Polytechnical University, June 2022.
 2. Fast exact algorithms for maximum relaxed clique problems.  Seminar of Operations Research Society of China. Shandon, May. 2019 
 1. L’opérateur PUSH pour la résolution approchée du problème de la clique de poids maximum. ROADEF, Metz, France, 2017
 
-## Funds
-
+## Grants
 3. National Natural Science Foundation of China (Young Scientists Fund 2018-2021) 
 2. UESTC  Initial Research Fund. 2018-2020
-1. The algorithm engineering course project (A teaching fund supported by Alibaba group, ongoing).
+1. The algorithm engineering course project (A teaching fund supported by Alibaba group).
 
 
 

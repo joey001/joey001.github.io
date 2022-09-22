@@ -10,25 +10,26 @@ Drop me a mail if you are interested in coding and optimization.
 
 ## Members
 ### Graduate students
-- 胡珊： 2019-Now
+- Lukeshi: 2022-Now
+- 罗春雨: 2022-Now
+- 汪顺旺：2022-Now
+- 周梓勃: 2021-Now
 - 吴新雨: 2020-Now
-- 周梓勃: 2021-Now.
-- 王宇潇: 2021-Now  (Tranferred student)
-- 张逸伟：2021-Now.
 
 ### Undergraduate students
 A partial list of undergraduate students in ALEG. 
-
 - 邹良钰: 2021-Now
 - 丛宇：2021-Now
 - 李奕聪: 2020-Now
 - 王正仁：2019-Now
 - 刘致廷：2019-Now
-- 罗春雨: 2019-Now
 - 代宇涛: 2019-Now
 - 熊子良: 2019-2021, Current: Master candidate in ALG Lab in UESTC
 
 ### Alumni
+- 王宇潇: 2021-2023. Current: Tencent.
+- 胡珊： 2019-2023. Current: Huawei.
+- 张逸伟：2019-202. Current: Master Canddiate in Brown University.
 - 刘雨曦： 209-2021(拔尖计划): Current: PhD candidate in ALG Lab in UESTC.
 - 陈小羽:  2018-2020(拔尖计划).  Current: PhD candidate at Nanjing University.
 - 徐经纬: 2019-2021(拔尖计划).  Current: PhD Candidate at Shanghai Jiaotong University.
