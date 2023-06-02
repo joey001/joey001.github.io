@@ -19,6 +19,7 @@ You can refer to my [:material-file-sign:publications](research/publication.md) 
 I am a member of the algorithm teaching group in the CS departement of UESTC.
 Here is a list a courses I give. 
 
++ 2022.09-2022.11 Optimization Algorithms, for students in CS department.
 + 2022.03-2022.05 The Design and Analysis of Algorithms, for graduate students in CS department (Yibin Campus). 
 + 2021.09-2021.11 Optimization Algorithms, for students in CS department.
 + 2020.09-2020.11 Optimization Algorithms, for students in CS department.

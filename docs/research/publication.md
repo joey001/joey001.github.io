@@ -1,4 +1,6 @@
 ## Publications
+18. Shan Hu, **Yi Zhou**, Mingyu Xiao, Zhang-Hua Fu, Zhipeng Lü. Listing maximal k-relaxed-vertex connected components from large graphs. Inf. Sci. 620: 67-83 (2023) [:material-file:PDF(full version)](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013329) 
+
 17. **Yi Zhou**, Shan Hu, Zimo Sheng, Extracting Densest Sub-hypergraph with Convex Edge-weight Functions. *International Conference on Theory and Applications of Models of Computation (TAMC)* 2022. [:material-file:PDF(full version)](https://arxiv.org/abs/2207.08340) 
 
 16. Zhengren Wang, **Yi Zhou\***, Mingyu Xiao, Bakhadyr Khoussainov. Listing Maximal *k*-Plexes in Large Real-World Graphs. *The Web Conference 2022* [:material-file:PDF](https://arxiv.org/abs/2202.08737). [:material-code-array:CODE](https://github.com/joey001/ListPlex)
@@ -49,5 +51,5 @@
 
 
 ## Reviewing Services
-- Conferences:  AAAI 2022, CIKM 2021-2022, WWW 2022, WSDM 2022
+- Conferences:  AAAI 2022, CIKM 2021-2023, WWW 2022, WSDM 2022 
 - Journals:  European Journal of Operational Research,  Computers & Operations Research, Journal of Artificial Intelligence Research.
