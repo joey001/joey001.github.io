@@ -4,11 +4,12 @@ By Wiki, [**Algorithm Engineering**](https://en.wikipedia.org/wiki/Algorithm_eng
 
 We currently work on some well-known hard combinatorial  optimization problems. We develop heuristics combinatorial search, integer linear programs, parallel methods etc., and investigate both their empirical and theoretical performances.
 
-We have built some high-performance programs for solving:
-- relaxed clique problems.
-- steiner tree problems.
-- cutting-stock problems. 
-(Codes can be found from the my publication page.)
+For example, we have built some high-performance programs for solving:  
+1. relaxed clique problems. 
+2. steiner tree problems. 
+3. cutting-stock problems. 
+
+Codes can be found from the my publication page.
 
 
 <font color=red>**NOTICE**</font>: we recruite talent **undergraduates** all the year round.
