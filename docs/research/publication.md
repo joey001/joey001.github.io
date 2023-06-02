@@ -1,4 +1,6 @@
 ## Publications
+19. Mengfan Ma, Ziyang Men, André Rossi, **Yi Zhou**, Mingyu Xiao: A vertex-separator-based integer linear programming formulation for the partitioned Steiner tree problem. *Computers and Operations Research* 153: 106151 (2023)[:material-file:PDF(full version)](https://www.sciencedirect.com/science/article/abs/pii/S0305054823000151).
+
 18. Shan Hu, **Yi Zhou**, Mingyu Xiao, Zhang-Hua Fu, Zhipeng Lü. Listing maximal k-relaxed-vertex connected components from large graphs. Inf. Sci. 620: 67-83 (2023) [:material-file:PDF(full version)](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013329) 
 
 17. **Yi Zhou**, Shan Hu, Zimo Sheng, Extracting Densest Sub-hypergraph with Convex Edge-weight Functions. *International Conference on Theory and Applications of Models of Computation (TAMC)* 2022. [:material-file:PDF(full version)](https://arxiv.org/abs/2207.08340) 
