@@ -1,8 +1,12 @@
 site_name: Yi Zhou's Homepage
 nav:
- - Home: index.md
+ - HomePage:   
+    - 中文: index.md
+    - English: index_en.md
  - Research: research/publication.md
- - AEGroup: aegroup/aegroup.md
+ - My Group: 
+    - Introduction: aegroup/aegroup.md
+    - Relaxed Clique: aegroup/relaxedclique.md
 theme:
   name: material
   language: en

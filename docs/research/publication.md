@@ -1,4 +1,6 @@
 ## Publications
+20. Zhengren Wang, **Yi Zhou**, Chunyu Luo, Mingyu Xiao: A Fast Maximum k-Plex Algorithm Parameterized by the Degeneracy Gap. Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI) 2023, Macau.
+
 19. Mengfan Ma, Ziyang Men, André Rossi, **Yi Zhou**, Mingyu Xiao: A vertex-separator-based integer linear programming formulation for the partitioned Steiner tree problem. *Computers and Operations Research* 153: 106151 (2023)[:material-file:PDF(full version)](https://www.sciencedirect.com/science/article/abs/pii/S0305054823000151).
 
 18. Shan Hu, **Yi Zhou**, Mingyu Xiao, Zhang-Hua Fu, Zhipeng Lü. Listing maximal k-relaxed-vertex connected components from large graphs. Inf. Sci. 620: 67-83 (2023) [:material-file:PDF(full version)](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013329) 
@@ -46,6 +48,8 @@
 1. L’opérateur PUSH pour la résolution approchée du problème de la clique de poids maximum. ROADEF, Metz, France, 2017
 
 ## Grants
+5. National Natural Science Foundation of China (2024-2027) 
+4. CCF-Huawei Populus Grove Fund. (2023)
 3. National Natural Science Foundation of China (Young Scientists Fund 2018-2021) 
 2. UESTC  Initial Research Fund. 2018-2020
 1. The algorithm engineering course project (A teaching fund supported by Alibaba group).
