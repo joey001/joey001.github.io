@@ -21,38 +21,42 @@ If you are interested in join us, drop me a mail.
 ## Members
 ### Graduate students
 - 胡笑然: Start from 2023 fall
-- 戚博文：Start from 2023 fall
+- 戚博文：(joint program.) Start from 2023 fall 
 - 郝益民: Start from 2023 fall
 - 罗春雨: Start from 2022 fall
 - 汪顺旺：Start from 2022 fall
 - Lukeshi: Start from 2022 fall
-- 周梓勃: Start from 2021 fall
+- 朱铖昊: Start from 2024 fall
 
 
 ### Undergraduate students
-A partial list of undergraduate students in Algorithm Engineering Group. 
-I try to keep students who have at least 1 year studying-experience withou our group on the list.
+A list of undergraduate students who have at least 1 year research experience in my group.
 
-- 邹良钰: 2021-Now 
-- 朱铖昊: 2021 -Now 
-- 丛宇：2021-Now 
-- 刘代宸: 2021-Now 
-- 李奕聪: 2020-Now 
 - 徐振翔：2022-Now
 - 许宝铎：2022-Now
-
+- 王硕：  2022-Now
+- 付浩呈: 2023-Now
+- 马志远：2023-Now
+- 姜浩裕：2023-Now
+- 贾文帅：2023-Now
 
 ### Alumni
-- 吴新雨: 2021-2023. Current: Huawei.
-- 王宇潇: 2021-2022. Current: Tencent.
-- 胡珊： 2019-2022. Current: Huawei.
-- 王正仁. 2020-2023. Current. Master Candidate at Peking University.
-- 刘致廷：2019-2023. Current. Master Candidate at Nanyang Technological University.
+
+- 周梓勃: 2021-2024. Current: Alibaba Group.
+- 吴新雨: 2020-2023. Current: Huawei.
+- 王宇潇: 2020-2022. Current: Tencent.
+- 胡珊：  2019-2022. Current: Huawei.
+- 李奕聪: 2020-2024. Current: Master Candidate at Peking University, Denmark
+- 刘代宸: 2021-2024. Enrolled as Master Candidate at Carnegie Mellon University.
+- 邹良钰: 2021-2024. Current: Master Candidate at Aarhus University, Denmark
+- 王正仁: 2020-2023. Current. Master Candidate at Peking University.
+- 刘致廷: 2019-2023. Current. Master Candidate at Nanyang Technological University.
 - 熊子良: 2019-2021, Current: Master candidate in ALG Lab in UESTC
-- 张逸伟：2019-2022. Current: Master candiate in Brown University.
-- 刘雨曦： 2019-2021: Current: PhD candidate in ALG Lab in UESTC.
-- 陈小羽:  2018-2020.  Current: PhD candidate in Nanjing University.
-- 门子扬：2019-2020. Current: PhD candidate in University of California, Riverside.
+- 张逸伟: 2019-2022. Current: Master candiate in Brown University.
+- 丛宇：  2021-2024. Current.  PhD candidate in ALG Lab in UESTC.
+- 刘雨曦: 2019-2021: Current: PhD candidate in ALG Lab in UESTC.
+- 陈小羽: 2018-2020.  Current: PhD candidate in Nanjing University.
+- 门子扬: 2019-2020. Current: PhD candidate in University of California, Riverside.
 - 徐经纬: 2019-2021.  Current: PhD Candidate in Shanghai Jiaotong University. 
 
 ### Suggestions for future students

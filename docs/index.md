@@ -2,7 +2,7 @@
 
 周毅，[电子科技大学计算机科学与工程学院](https://www.scse.uestc.edu.cn/index.htm)副教授，电子科技大学[算法与逻辑实验室](https://tcsuestc.com/)的成员。
 
-周毅于2017在法国[昂热大学](https://www.univ-angers.fr/fr/index.html)博士学位，导师为[法国IUF院士Jin-Kao HAO教授](https://leria-info.univ-angers.fr/~jinkao.hao/)，于2013和2010在电子科技大学计算机科学与工程学院学院分别获得硕士和学士学位。
+周毅于2017在法国[昂热大学](https://www.univ-angers.fr/fr/index.html)博士学位，导师为[法国IUF院士Jin-Kao HAO教授](https://leria-info.univ-angers.fr/~jinkao.hao/)和[Adrien Goëffon教授](https://leria-info.univ-angers.fr/~adrien.goeffon/)，于2013和2010在电子科技大学计算机科学与工程学院学院分别获得硕士和学士学位。
 
 :material-email:邮箱:  zhou.yi[at]uestc[dot]edu[dot]cn
 
@@ -25,7 +25,9 @@
 + 2022春，2022秋，2023秋：高级算法设计与分析，研究生课程。
 
 # 算法工程小组及招生
-我现在管理并指导了[算法工程兴趣小组](aegroup/aegroup.md)，小组由一些优秀的研究生和本科生组成。我们探索了很多有趣的组合优化问题及求解算法，并欢迎更多同学加入。
+我现在管理并指导了[UESTC算法工程兴趣小组](aegroup/aegroup.md)，由一些优秀的研究生和本科生组成。
+我们探索了很多有趣的组合优化问题及求解算法，即使本科生也能发表很多论文和科研成果。
+我们常年欢迎本科生加入，想要加入的本校学生可邮件联系或者直接来办公室找我。
 
 <mark>** 如何加入我的研究小组，请参考[<u>加入建议</u>](aegroup/aegroup.md#suggestions-for-future-students) **<mark>。
 
