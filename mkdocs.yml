@@ -3,6 +3,7 @@ nav:
  - HomePage:   
     - 中文: index.md
     - English: index_en.md
+    - 最优化算法: course/optimization.md
  - Research: research/publication.md
  - My Group: 
     - Introduction: aegroup/aegroup.md

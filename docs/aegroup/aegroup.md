@@ -14,7 +14,7 @@ For example, we have built some high-performance programs for solving:
 3. 2- and 3-dimensional cutting-stock problems. 
 4. sattelite scheduling problems.
 
-<font color=red>**NOTICE**</font>: we recruite  **undergraduates** all the year round.
+<font color=red>**NOTICE**</font>: we recruit  **undergraduates** all the year round.
 If you are interested in join us, drop me a mail. 
 
 
@@ -39,6 +39,7 @@ A list of undergraduate students who have at least 1 year research experience in
 - 马志远：2023-Now
 - 姜浩裕：2023-Now
 - 贾文帅：2023-Now
+- 曾镜霖: 2023-Now
 
 ### Alumni
 
