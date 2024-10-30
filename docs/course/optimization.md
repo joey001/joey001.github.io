@@ -51,8 +51,19 @@
 |2024年9月16日 | 24ch03-2-基础知识-凸集、凸函数和凸优化  | [PPT](https://1drv.ms/b/s!Ah-FtUlVkbCKnhuwTw3MiD1bLVOe?e=xqeJlz) | 习题：教课书P369, 22.6, 22.8, 22.20 |
 |2024年9月18日 | 24ch04-1-无约束规划-案例及最优性条件 | [PPT](https://1drv.ms/b/s!Ah-FtUlVkbCKnjVcQ41Q2-woxQv8?e=Dka74m) | 习题：教科书P65, 6.8, 6.9, 6.30 |
 |2024年9月18日-23日 | 24ch04-2-无约束规划-下降法 | [PPT](https://1drv.ms/b/s!Ah-FtUlVkbCKnjYBJMf8wkuhBiP3?e=B5m6fn) | 无 |
-|2024年9月23日 | 24ch04-3-无约束规划-一阶方法-梯度+共轭法 | [PPT]() | 无 |
-|2024年9月23日 | 24ch04-4-无约束规划-二阶方法 -牛顿法 | [PPT]() | 无 |
+|2024年9月23日 | 24ch04-3-无约束规划-一阶方法-梯度 + 共轭法 | 共轭法[PPT](https://1drv.ms/b/c/8ab0915549b5851f/ER-FtUlVkbAggIqEDwAAAAABoRE-_dpABjEx-RqBRoaWUg?e=bzZyAh) | 习题：教科书8.1，8.8，8.16, 10.5,10.7,10.9 |
+|2024年9月25日 | 24ch04-4-无约束规划- 牛顿法 | 牛顿法[PPT](https://1drv.ms/b/c/8ab0915549b5851f/ER-FtUlVkbAggIqFDwAAAAABf3n_2SVhHBSYfH01BoaVFw?e=3CMd5f) | 无 |
+|2024年9月30日 | 24ch04-4-无约束规划-拟牛顿法1 | 拟牛顿法[PPT](https://1drv.ms/b/c/8ab0915549b5851f/ER-FtUlVkbAggIqGDwAAAAABXm1ew4_0VJdBGbENnugL4w?e=KMpkNv) | 无 |
+|2024年10月9日 | 24ch04-4-拟牛顿法 2 | -- | 无 |
+|2024年10月12日 | 24ch05-1-有约束规划-案例, SVM  （补上国庆假期10.7日课程）|[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EcFhUQPTaQpFmIvjIzGPnKABFQ8SCPu5qF4oT-v5LfIwuQ?e=zA5A6o) | 无 |
+|2024年10月14日 | 24ch05-2-有约束优化-拉格朗日对偶，等式约束的一阶最优性条件 | 拉格朗日对偶,等式约束一阶必要条件，KKT等，[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EXvFukdGKfxCuVF4DBtbZ-gBWekxmGW5ArqGt-9UsJAiUQ?e=4croYc) | 无 |
+|2024年10月16日- | 24ch04-4-有约束优化-KKT条件 |--  | 无 |
+|2024年10月21-22日 | 无课程 |--  | 无 |
+|2024年10月28日- | 24ch04-4-有约束优化算法，投影法，罚函数法 |[PPT](https://1drv.ms/b/c/8ab0915549b5851f/ETyWBN5HOjRAttFV9b5muAIBYJczoo14PVSWzFEgB8YVKw?e=TynooF)  | 无 |
+|2024年10月30日- | 24ch04-4-有约束优化算法内点法；习题课 |[PPT](https://1drv.ms/b/c/8ab0915549b5851f/ETyWBN5HOjRAttFV9b5muAIBYJczoo14PVSWzFEgB8YVKw?e=TynooF)  | 无 |
+
+
+
 
 
 # 课程答疑
