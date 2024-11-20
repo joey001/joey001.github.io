@@ -48,20 +48,26 @@
 |2024年9月4日 | 24ch02-1-简单优化问题-一维搜索-不可导| [PPT](https://1drv.ms/b/s!Ah-FtUlVkbCKnXacijl2UG4qEYiX?e=tzSev6) | 无 |
 |2024年9月9日 | 24ch02-2-简单优化问题-一维搜索-可导 | [PPT](https://1drv.ms/b/s!Ah-FtUlVkbCKnXloQIb5mH9uf2Wk?e=Y8JeYI) | 习题：教科书P88-P89页： 7.1, 7.2-b,c, 7.7, 7.9 |
 |2024年9月11日 | 24ch03-1-基础知识-多维函数概念  | [PPT](https://1drv.ms/b/s!Ah-FtUlVkbCKnhd9oxzlVKBHPVCl?e=WI9C6e) | 无 |
-|2024年9月16日 | 24ch03-2-基础知识-凸集、凸函数和凸优化  | [PPT](https://1drv.ms/b/s!Ah-FtUlVkbCKnhuwTw3MiD1bLVOe?e=xqeJlz) | 习题：教课书P369, 22.6, 22.8, 22.20 |
+|2024年9月14日(按照9.16周一上课) | 24ch03-2-基础知识-凸集、凸函数和凸优化  | [PPT](https://1drv.ms/b/s!Ah-FtUlVkbCKnhuwTw3MiD1bLVOe?e=xqeJlz) | 习题：教科书P369, 22.6, 22.8, 22.20 |
 |2024年9月18日 | 24ch04-1-无约束规划-案例及最优性条件 | [PPT](https://1drv.ms/b/s!Ah-FtUlVkbCKnjVcQ41Q2-woxQv8?e=Dka74m) | 习题：教科书P65, 6.8, 6.9, 6.30 |
 |2024年9月18日-23日 | 24ch04-2-无约束规划-下降法 | [PPT](https://1drv.ms/b/s!Ah-FtUlVkbCKnjYBJMf8wkuhBiP3?e=B5m6fn) | 无 |
 |2024年9月23日 | 24ch04-3-无约束规划-一阶方法-梯度 + 共轭法 | 共轭法[PPT](https://1drv.ms/b/c/8ab0915549b5851f/ER-FtUlVkbAggIqEDwAAAAABoRE-_dpABjEx-RqBRoaWUg?e=bzZyAh) | 习题：教科书8.1，8.8，8.16, 10.5,10.7,10.9 |
 |2024年9月25日 | 24ch04-4-无约束规划- 牛顿法 | 牛顿法[PPT](https://1drv.ms/b/c/8ab0915549b5851f/ER-FtUlVkbAggIqFDwAAAAABf3n_2SVhHBSYfH01BoaVFw?e=3CMd5f) | 无 |
 |2024年9月30日 | 24ch04-4-无约束规划-拟牛顿法1 | 拟牛顿法[PPT](https://1drv.ms/b/c/8ab0915549b5851f/ER-FtUlVkbAggIqGDwAAAAABXm1ew4_0VJdBGbENnugL4w?e=KMpkNv) | 无 |
 |2024年10月9日 | 24ch04-4-拟牛顿法 2 | -- | 无 |
-|2024年10月12日 | 24ch05-1-有约束规划-案例, SVM  （补上国庆假期10.7日课程）|[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EcFhUQPTaQpFmIvjIzGPnKABFQ8SCPu5qF4oT-v5LfIwuQ?e=zA5A6o) | 无 |
+|2024年10月12日 （按照国庆假期10.7日周一上课）| 24ch05-1-有约束规划-案例, SVM  |[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EcFhUQPTaQpFmIvjIzGPnKABFQ8SCPu5qF4oT-v5LfIwuQ?e=zA5A6o) | 无 |
 |2024年10月14日 | 24ch05-2-有约束优化-拉格朗日对偶，等式约束的一阶最优性条件 | 拉格朗日对偶,等式约束一阶必要条件，KKT等，[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EXvFukdGKfxCuVF4DBtbZ-gBWekxmGW5ArqGt-9UsJAiUQ?e=4croYc) | 无 |
-|2024年10月16日- | 24ch04-4-有约束优化-KKT条件 |--  | 无 |
-|2024年10月21-22日 | 无课程 |--  | 无 |
-|2024年10月28日- | 24ch04-4-有约束优化算法，投影法，罚函数法 |[PPT](https://1drv.ms/b/c/8ab0915549b5851f/ETyWBN5HOjRAttFV9b5muAIBYJczoo14PVSWzFEgB8YVKw?e=TynooF)  | 无 |
-|2024年10月30日- | 24ch04-4-有约束优化算法内点法；习题课 |[PPT](https://1drv.ms/b/c/8ab0915549b5851f/ETyWBN5HOjRAttFV9b5muAIBYJczoo14PVSWzFEgB8YVKw?e=TynooF)  | 无 |
-
+|2024年10月16日 | 有约束优化-KKT条件 |--  | 无 |
+|2024年10月21-22日 | （调课）无课程 |--  | 无 |
+|2024年10月28日 | 有约束优化算法，投影法，罚函数法 |[PPT](https://1drv.ms/b/c/8ab0915549b5851f/ETyWBN5HOjRAttFV9b5muAIBYJczoo14PVSWzFEgB8YVKw?e=TynooF)  | 无 |
+|2024年10月30日 | 有约束优化算法内点法，习题课1 |--| 无 |
+|2024年11月4日 | 习题课2， 线性优化案例介绍 |[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EcFhUQPTaQpFmIvjIzGPnKABcFVF7Td_W35PktM9TNr0yA?e=bRcTeY)  | 无 |
+|2024年11月6日 | 线性优化基本概念 |[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EbPCvWNvwfhMhkT4mvdKEO8BKbZCUjs5Qo6hE5F4qhwrOg?e=k6gzvL)  | 无 |
+|2024年11月11日-11月13日 | 线性优化-单纯形法，二阶段|[PPT](https://1drv.ms/b/c/8ab0915549b5851f/Eb2WVgoVsLFOtMfOz8QgsA8BsDSa4O9IeDsO4TZ9DkOCeQ?e=c5xjlC)  | 无 |
+|2024年11月18日 | 线性优化-对偶|https://1drv.ms/b/c/8ab0915549b5851f/EbItmE6HbApBmnnNyhEFISMB6Ia9JXAyLGt4Xm9o8K9Idg?e=ec1OLf | 无 |
+|2024年11月20日 | 对偶单纯形*，线性规划求解器| | https://1drv.ms/b/c/8ab0915549b5851f/EaNOV-iLnvFGhTmGq8aL5jQB448MX7pbwSBNzNj6zk8w_A?e=wtlzez |习题：教科书15.1,15.5,16.3,16.4,16.9,17.4,17.6,17.15|
+|2024年11月25日 | 整数规划基础|| https://1drv.ms/b/c/8ab0915549b5851f/EePr05r6n5ZJtarq13R93S4BCn2uJZXfsLsXPDMV3cY2kw?e=mHPBRj |无|
+|2024年11月27日 | Gomory切平面|| https://1drv.ms/b/c/8ab0915549b5851f/EVK6L1Dh6NBAs8lz61EjlEkBth8cn4TZlmPt7mPMvTaMIQ?e=TLtkdX |无|
 
 
 
