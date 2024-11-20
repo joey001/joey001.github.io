@@ -64,10 +64,10 @@
 |2024年11月4日 | 习题课2， 线性优化案例介绍 |[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EcFhUQPTaQpFmIvjIzGPnKABcFVF7Td_W35PktM9TNr0yA?e=bRcTeY)  | 无 |
 |2024年11月6日 | 线性优化基本概念 |[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EbPCvWNvwfhMhkT4mvdKEO8BKbZCUjs5Qo6hE5F4qhwrOg?e=k6gzvL)  | 无 |
 |2024年11月11日-11月13日 | 线性优化-单纯形法，二阶段|[PPT](https://1drv.ms/b/c/8ab0915549b5851f/Eb2WVgoVsLFOtMfOz8QgsA8BsDSa4O9IeDsO4TZ9DkOCeQ?e=c5xjlC)  | 无 |
-|2024年11月18日 | 线性优化-对偶|https://1drv.ms/b/c/8ab0915549b5851f/EbItmE6HbApBmnnNyhEFISMB6Ia9JXAyLGt4Xm9o8K9Idg?e=ec1OLf | 无 |
-|2024年11月20日 | 对偶单纯形*，线性规划求解器| | https://1drv.ms/b/c/8ab0915549b5851f/EaNOV-iLnvFGhTmGq8aL5jQB448MX7pbwSBNzNj6zk8w_A?e=wtlzez |习题：教科书15.1,15.5,16.3,16.4,16.9,17.4,17.6,17.15|
-|2024年11月25日 | 整数规划基础|| https://1drv.ms/b/c/8ab0915549b5851f/EePr05r6n5ZJtarq13R93S4BCn2uJZXfsLsXPDMV3cY2kw?e=mHPBRj |无|
-|2024年11月27日 | Gomory切平面|| https://1drv.ms/b/c/8ab0915549b5851f/EVK6L1Dh6NBAs8lz61EjlEkBth8cn4TZlmPt7mPMvTaMIQ?e=TLtkdX |无|
+|2024年11月18日 | 线性优化-对偶|[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EbItmE6HbApBmnnNyhEFISMB6Ia9JXAyLGt4Xm9o8K9Idg?e=ec1OLf) | 无 |
+|2024年11月20日 | 对偶单纯形*，线性规划求解器| | [PPT](https://1drv.ms/b/c/8ab0915549b5851f/EaNOV-iLnvFGhTmGq8aL5jQB448MX7pbwSBNzNj6zk8w_A?e=wtlzez) |习题：教科书15.1,15.5,16.3,16.4,16.9,17.4,17.6,17.15|
+|2024年11月25日 | 整数规划基础|[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EePr05r6n5ZJtarq13R93S4BCn2uJZXfsLsXPDMV3cY2kw?e=mHPBRj) |无|
+|2024年11月27日 | Gomory切平面| [PPT](https://1drv.ms/b/c/8ab0915549b5851f/EVK6L1Dh6NBAs8lz61EjlEkBth8cn4TZlmPt7mPMvTaMIQ?e=TLtkdX) |无|
 
 
 
