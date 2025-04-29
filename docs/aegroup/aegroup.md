@@ -52,16 +52,19 @@ A list of undergraduate students who have at least 1 year research experience in
 - 邹良钰: 2021-2024. Current: Master Candidate at Aarhus University, Denmark
 - 王正仁: 2020-2023. Current. Master Candidate at Peking University.
 - 刘致廷: 2019-2023. Current. Master Candidate at National University of Singapore.
-- 熊子良: 2019-2021, Current: Master candidate in ALG Lab in UESTC
-- 张逸伟: 2019-2022. Current: Master candiate in Brown University.
-- 丛宇：  2021-2024. Current.  PhD candidate in ALG Lab in UESTC.
-- 刘雨曦: 2019-2021: Current: PhD candidate in ALG Lab in UESTC.
-- 陈小羽: 2018-2020.  Current: PhD candidate in Nanjing University.
-- 门子扬: 2019-2020. Current: PhD candidate in University of California, Riverside.
-- 徐经纬: 2019-2021.  Current: PhD Candidate in Shanghai Jiaotong University. 
+- 熊子良: 2019-2021, Current: Master candidate at ALG Lab in UESTC
+- 张逸伟: 2019-2022. Current: Master candiate at Brown University.
+- 丛宇：  2021-2024. Current.  PhD candidate in the ALG Lab in UESTC.
+- 刘雨曦: 2019-2021: Current: PhD candidate in the ALG Lab in UESTC.
+- 陈小羽: 2018-2020.  Current: PhD candidate at Nanjing University.
+- 门子扬: 2019-2020. Current: PhD candidate at University of California, Riverside.
+- 徐经纬: 2019-2021.  Current: PhD Candidate at Shanghai Jiaotong University. 
 
 ### Suggestions for future students
-- UESTC undergraduates: UESTC undergraduates who want to do research with us can come to my office or send me a mail all the year round. But the research training is more helpful if you want to pursue a Master or Phd degree after graduation. 
-- Non-UESTC undergraduates: If you conside me as a supervisor of your Master study, here are some tips. (1). Make sure that you want to study algorithms (which is a bit challenging in my view) (2) Make sure that you like writing and optimizing codes. (This is an extra requirement for doing algorithm engineering.) (3) Send me a mail as early as possible. (My mailbox is often flooded by application mails  in the last 1 or 2 days before the application portal is closed).  
+- Undergraduates: UESTC undergraduates can come to my office or send me a mail all the year round. You should note that the research training is more or less a warm-up towards the Master or Phd stduy. 
+- Master: If you conside me as a supervisor of your Master study, here are some tips. 
+    1. Make sure that you like writing and optimizing C/C++ codes. (Most of time, we use C/C++ for performance.) 
+    2. Make sure that you can cope with traditional algorithm design. <!-- We do NOT often study deep learning algorithms. -->
+    3. Send me a mail as early as possible. 
  <!-- I feel sorry for not replying every application letter in the peaking time. Please try to highlight your advantages of doing the research.  -->
-- Foreign students: I supervise few foreign master canidates. For application, it is better to have some studying or working experiences in China beforehand. Also, please highlight your advantages in doing the algorihmic research in your application letter.
+- Foreign students: If you are interested in joining us, please highlight your advantages in doing the algorihmic research in your application letter. Having some studying or working experiences in China will be an advantage.

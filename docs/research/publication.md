@@ -1,4 +1,13 @@
-## Publications
+## Publications (The [DBLP](https://dblp.org/pid/01/1901-16.html) and [Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ&hl=zh-CN) pages are more up-to-date.)
+
+24. Ziliang Xiong, **Yi Zhou**, Mingyu Xiao, Bakhadyr Khoussainov: Finding small feedback arc sets on large graphs. Comput. Oper. Res. 169: 106724 (2024)
+
+23. Lu Liu, Mingyu Xiao, **Yi Zhou**: A Fast Exact Solver with Theoretical Analysis for the Maximum Edge-Weighted Clique Problem. AAAI 2024: 20768-20776
+
+22. Ming Sun, Xinyu Wu, **Yi Zhou**, Jin-Kao Hao, Zhang-Hua Fu: A Partition-and-Merge Algorithm for Solving the Steiner Tree Problem in Large Graphs. COCOON (2) 2024: 128-139
+
+21. Chunyu Luo, **Yi Zhou**, Zhengren Wang, Mingyu Xiao: A Faster Branching Algorithm for the Maximum k-Defective Clique Problem. ECAI 2024: 4132-4139
+
 20. Zhengren Wang, **Yi Zhou**, Chunyu Luo, Mingyu Xiao: A Fast Maximum k-Plex Algorithm Parameterized by the Degeneracy Gap. Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI) 2023, Macau.
 
 19. Mengfan Ma, Ziyang Men, André Rossi, **Yi Zhou**, Mingyu Xiao: A vertex-separator-based integer linear programming formulation for the partitioned Steiner tree problem. *Computers and Operations Research* 153: 106151 (2023)[:material-file:PDF(full version)](https://www.sciencedirect.com/science/article/abs/pii/S0305054823000151).
@@ -42,13 +51,13 @@
 
 <!--Please feel free to contact me if you have any problem in obtaining the paper.-->
 
-## Talks
+## Talks and Visits
 3. Finding Large Relaxed Cliques: Theory and Practice. School of Management, Northwestern Polytechnical University, June 2022.
 2. Fast exact algorithms for maximum relaxed clique problems.  Seminar of Operations Research Society of China. Shandon, May. 2019 
 1. L’opérateur PUSH pour la résolution approchée du problème de la clique de poids maximum. ROADEF, Metz, France, 2017
 
 ## Grants
-5. National Natural Science Foundation of China (2024-2027) 
+5. National Natural Science Foundation of China (General Fund 2024-2027) 
 4. CCF-Huawei Populus Grove Fund. (2023)
 3. National Natural Science Foundation of China (Young Scientists Fund 2018-2021) 
 2. UESTC  Initial Research Fund. 2018-2020
@@ -57,5 +66,5 @@
 
 
 ## Reviewing Services
-- Conferences:  AAAI 2022, CIKM 2021-2023, WWW 2022, WSDM 2022 
-- Journals:  European Journal of Operational Research,  Computers & Operations Research, Journal of Artificial Intelligence Research.
+- Conferences:  AAAI 2022,2023, CIKM 2021-2023, WWW 2022, WSDM 2022 
+- Journals:  European Journal of Operational Research,  Computers & Operations Research, Journal of Artificial Intelligence Research, Expert Systems With Applications.

@@ -1,5 +1,5 @@
-# 最优化算法
-<img src="./qp.png" style="zoom:55%;" align="right"/>
+# 最优化算法-2024秋
+<img src="qp.png" style="zoom:80%;" align="right"/>
 
 最优化算法是人工智能、数据科学等相关领域的必修课程。
 本课程从优化问题的建模出发，主要介绍不同优化模型的求解思想，求解算法，也兼顾对基本的优化理论学习。
@@ -8,33 +8,41 @@
 
 # 大纲
 
+
 1. 一维无约束优化
     - Goldsection, 斐波那契法，二分法
     - 牛顿法，割线法，二次拟合法
+1. 多维优化基础
+    - 线性代数和矩阵基础：二次型，正定矩阵，范数等
+    - 梯度
+    - 黑塞矩阵    
 1. 多维无约束规划-案例及最优性条件
-    - 案例：统计回归
+    - 案例：统计几种回归
     - 最优性条件
     - 下降法，Wolf近似条件
     - 梯度法，共轭法
     - 牛顿法，拟牛顿法
 1. 有约束规划
-    - 案例：SVM
+    - 案例：SVM分类
     - 拉格朗日对偶、最优性条件-KKT， 
     - 线性约束：投影法
     - 外点法，内点法
 1. 线性规划
-    - 案例：调度、回归等
+    - 案例：调度、线性回归等
     - 单纯形法
     - 对偶问题及对偶性质
     - 对偶单纯形(optional)    
 1. 整数规划
-    - 案例:选址问题
+    - 案例:选址问题，旅行商问题
     - 线性松弛、完全幺模矩阵、网络流.
-    - Gomory割平面法
-    - 分支定界
     - Rounding和其他算法
-1. 组合优化
-    - TBD
+    - Gomory割平面法
+    - 分支定界    
+1. 全局搜索
+    - 随机搜索
+    - 模拟退火
+    - 粒子群算法
+    - 遗传算法
 
 # 课程要求
 基本的微积分和线性代数基础；
@@ -65,9 +73,11 @@
 |2024年11月6日 | 线性优化基本概念 |[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EbPCvWNvwfhMhkT4mvdKEO8BKbZCUjs5Qo6hE5F4qhwrOg?e=k6gzvL)  | 无 |
 |2024年11月11日-11月13日 | 线性优化-单纯形法，二阶段|[PPT](https://1drv.ms/b/c/8ab0915549b5851f/Eb2WVgoVsLFOtMfOz8QgsA8BsDSa4O9IeDsO4TZ9DkOCeQ?e=c5xjlC)  | 无 |
 |2024年11月18日 | 线性优化-对偶|[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EbItmE6HbApBmnnNyhEFISMB6Ia9JXAyLGt4Xm9o8K9Idg?e=ec1OLf) | 无 |
-|2024年11月20日 | 对偶单纯形*，线性规划求解器| | [PPT](https://1drv.ms/b/c/8ab0915549b5851f/EaNOV-iLnvFGhTmGq8aL5jQB448MX7pbwSBNzNj6zk8w_A?e=wtlzez) |习题：教科书15.1,15.5,16.3,16.4,16.9,17.4,17.6,17.15|
+|2024年11月20日 | 对偶单纯形*，线性规划求解器| [PPT](https://1drv.ms/b/c/8ab0915549b5851f/EaNOV-iLnvFGhTmGq8aL5jQB448MX7pbwSBNzNj6zk8w_A?e=wtlzez) |习题：教科书15.1,15.5,16.3,16.4,16.9,17.4,17.6,17.15|
 |2024年11月25日 | 整数规划基础|[PPT](https://1drv.ms/b/c/8ab0915549b5851f/EePr05r6n5ZJtarq13R93S4BCn2uJZXfsLsXPDMV3cY2kw?e=mHPBRj) |无|
 |2024年11月27日 | Gomory切平面| [PPT](https://1drv.ms/b/c/8ab0915549b5851f/EVK6L1Dh6NBAs8lz61EjlEkBth8cn4TZlmPt7mPMvTaMIQ?e=TLtkdX) |无|
+|2024年12月2日 | 分支定界法| [PPT](https://1drv.ms/b/c/8ab0915549b5851f/EaMq89YioYJPmnc0B6gLn44BF1I6U2jgQ2MIq8id1rSt4Q?e=SksuYC) |无|
+|2024年12月2日 | 全局搜索算法（启发式），复习课| [PPT](https://1drv.ms/b/c/8ab0915549b5851f/Ea29Yl15MmNCujTeS-qd13YBvIbfiYG377cQ_1NzXSFH9A?e=fXIq6Q) |无|
 
 
 
@@ -80,4 +90,4 @@
 # 课程资源
 - [南京大学，最优化理论与方法](https://www.icourse163.org/course/NJU-1465971171?from=searchPage&outVendor=zw_mooc_pcssjg_)
 - 在线书籍，Julia代码[Algorithms for Optimization](https://mitpress.mit.edu/9780262039420/algorithms-for-optimization/)
-
+- pyomo: 基于python开源优化建模语言 https://www.pyomo.org/
