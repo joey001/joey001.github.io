@@ -20,29 +20,28 @@ If you are interested in joining us, drop me a mail.
 
 ## Members
 ### Graduate students
-- 胡笑然: Start from 2023 fall
+- 付浩呈：Start from 2025 fall
 - 戚博文：(joint program.) Start from 2023 fall 
 - 郝益民: Start from 2023 fall
-- 罗春雨: Start from 2022 fall
 - 汪顺旺：Start from 2022 fall
-- Lukeshi: Start from 2022 fall
 - 朱铖昊: Start from 2024 fall
-
+- Lukeshi: starts from 2022 fall. Phd Candidate from 2025 fall.
+- 胡笑然: Start from 2023 fall
 
 ### Undergraduate students
 A list of undergraduate students who have at least 1 year research experience in my group.
 
-- 徐振翔：2022-Now
-- 许宝铎：2022-Now
+- 刘泰宏: 2025-Now
 - 王硕：  2022-Now
-- 付浩呈: 2023-Now
-- 马志远：2023-Now
 - 姜浩裕：2023-Now
-- 贾文帅：2023-Now
 - 曾镜霖: 2023-Now
 
 ### Alumni
-
+- 汪顺旺: 2022-2025, Current: China General Nuclear Power Corporation
+- 罗春雨: 2022-2025, Current: Research Institute in Sichuan.
+- 徐振翔：2022- 2025, Current, PhD candidate at Zhejiang University
+- 许宝铎：2022-2025, Current, PhD candidate at Nanjing University
+- 贾文帅：2023- 2025, Current, Master candidate at Nanjing University
 - 周梓勃: 2021-2024. Current: Alibaba Group.
 - 吴新雨: 2020-2023. Current: Huawei.
 - 王宇潇: 2020-2022. Current: Tencent.
