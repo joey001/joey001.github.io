@@ -1,13 +1,16 @@
 site_name: Yi Zhou's Homepage
 nav:
  - HomePage:   
+    - English: index_en.md    
     - 中文: index.md
-    - English: index_en.md
+ - Research: 
+    - publication: research/publication.md
+    - Relaxed Clique: research/relaxcliquesolver/relaxedclique.md    
+    - submodular optimization solver: research/submodular/submax.md
+ - Teaching: 
     - 最优化算法: course/optimization.md
- - Research: research/publication.md
  - My Group: 
-    - Introduction: aegroup/aegroup.md
-    - Relaxed Clique: aegroup/relaxedclique.md
+    - Introduction: aegroup/aegroup.md    
 theme:
   name: material
   language: en
@@ -19,8 +22,8 @@ markdown_extensions:
   - meta
   - attr_list
   - pymdownx.emoji:
-     emoji_index: !!python/name:materialx.emoji.twemoji
-     emoji_generator: !!python/name:materialx.emoji.to_svg
+     emoji_index: !!python/name:material.extensions.emoji.twemoji
+     emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 
 
