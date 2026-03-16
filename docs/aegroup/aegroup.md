@@ -67,3 +67,10 @@ A list of undergraduate students who have at least 1 year research experience in
     3. Send me a mail as early as possible. 
  <!-- I feel sorry for not replying every application letter in the peaking time. Please try to highlight your advantages of doing the research.  -->
 - Foreign students: If you are interested in joining us, please highlight your advantages in doing the algorihmic research in your application letter. Having some studying or working experiences in China will be an advantage.
+
+# 一些推荐的自学课程
+
++ [Coursera 离散优化](https://www.coursera.org/learn/discrete-optimization)
++ [MIT OCW 算法设计与分析](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
++ [MIT OCW 性能工程和软件系统6.854/18.415](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/index.htm)
++ [MIT 高级算法课程6.854/18.415](http://people.csail.mit.edu/moitra/854.html),
