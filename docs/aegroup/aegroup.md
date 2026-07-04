@@ -20,25 +20,29 @@ If you are interested in joining us, drop me a mail.
 
 ## Members
 ### Graduate students
-- 付浩呈：Start from 2025 fall
-- 戚博文：(joint program.) Start from 2023 fall 
-- 郝益民: Start from 2023 fall
-- 汪顺旺：Start from 2022 fall
-- 朱铖昊: Start from 2024 fall
-- Lukeshi: starts from 2022 fall. Phd Candidate from 2025 fall.
-- 胡笑然: Start from 2023 fall
+- 朱铖昊: Start from 2024 fall (cosupervised with Prof. Xu)
+- Lukeshi: Start from 2025 fall
+- 粟永航：Start from 2024 fall (cosupervised with Prof. Xu)
+- 付浩呈：Start from 2025 fall (cosupervised with Prof. Bakh)
+- 王心雨: Start from 2025 fall
+- 毛剑: Start from 2025 fall
+- 赵喆: Start from 2025 fall
 
 ### Undergraduate students
 A list of undergraduate students who have at least 1 year research experience in my group.
-
 - 刘泰宏: 2025-Now
 - 王硕：  2022-Now
 - 姜浩裕：2023-Now
 - 曾镜霖: 2023-Now
 
 ### Alumni
+
+#### Graduate alumni
+- 郝益民：2023-2026, Current: 中兴通讯股份有限公司
+- 胡笑然：2023-2026, current: 华为技术有限公式
+- 戚博文：2023-2026, Current: 北京三快科技有限公司（美团）
 - 汪顺旺: 2022-2025, Current: China General Nuclear Power Corporation
-- 罗春雨: 2022-2025, Current: Research Institute in Sichuan.
+- 罗春雨: 2022-2025, Current: National Research Institute.
 - 徐振翔：2022- 2025, Current, PhD candidate at Zhejiang University
 - 许宝铎：2022-2025, Current, PhD candidate at Nanjing University
 - 贾文帅：2023- 2025, Current, Master candidate at Nanjing University
@@ -46,8 +50,10 @@ A list of undergraduate students who have at least 1 year research experience in
 - 吴新雨: 2020-2023. Current: Huawei.
 - 王宇潇: 2020-2022. Current: Tencent.
 - 胡珊：  2019-2022. Current: Huawei.
+#### Undergraduate alumni
+- 王硕： 2021-2026, Current: PhD candidate at Tsinghua University
 - 李奕聪: 2020-2024. Current: Master Candidate at Peking University, Denmark
-- 刘代宸: 2021-2024. Enrolled as Master Candidate at Carnegie Mellon University.
+- 刘代宸: 2021-2024. Current: Master Candidate at Carnegie Mellon University.
 - 邹良钰: 2021-2024. Current: Master Candidate at Aarhus University, Denmark
 - 王正仁: 2020-2023. Current. Master Candidate at Peking University.
 - 刘致廷: 2019-2023. Current. Master Candidate at National University of Singapore.
@@ -58,6 +64,8 @@ A list of undergraduate students who have at least 1 year research experience in
 - 陈小羽: 2018-2020.  Current: PhD candidate at Nanjing University.
 - 门子扬: 2019-2020. Current: PhD candidate at University of California, Riverside.
 - 徐经纬: 2019-2021.  Current: PhD Candidate at Shanghai Jiaotong University. 
+
+(部分本科同学的毕业去向可能未在上表中列出，欢迎联系我更新。)
 
 ### Suggestions for future students
 - Undergraduates: UESTC undergraduates can come to my office or send me a mail all the year round. You should note that the research training is more or less a warm-up towards the Master or Phd stduy. 

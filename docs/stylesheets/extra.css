@@ -1,0 +1,58 @@
+body {
+  background-attachment: fixed;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
+    url("../background.png");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.md-main,
+.md-main__inner {
+  background: transparent;
+}
+
+.md-content,
+.md-content__inner,
+.md-search__scrollwrap,
+.md-typeset table:not([class]) {
+  background-color: rgba(255, 255, 255, 0.56);
+  backdrop-filter: blur(6px);
+}
+
+.md-content__inner,
+.md-search__scrollwrap {
+  border-radius: 1rem;
+  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.12);
+}
+
+.md-content__inner {
+  padding: 1.2rem 1.4rem;
+}
+
+.md-sidebar__inner,
+.md-nav {
+  background: transparent;
+  box-shadow: none;
+}
+
+.md-sidebar--primary .md-nav {
+  background-color: rgba(255, 255, 255, 0.34);
+  border-radius: 0.9rem;
+  backdrop-filter: blur(4px);
+}
+
+.md-sidebar--secondary {
+  background: transparent;
+}
+
+.md-sidebar--secondary:not(:has(.md-nav__list)) {
+  display: none;
+}
+
+.md-header,
+.md-tabs {
+  background-color: rgba(25, 118, 210, 0.88);
+  backdrop-filter: blur(6px);
+}
