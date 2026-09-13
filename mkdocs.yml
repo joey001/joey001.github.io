@@ -10,7 +10,7 @@ nav:
       - Publications: research/publication.md
       - Relaxed Cliques: research/relaxcliquesolver/relaxedclique.md
       - Submodular Optimization: research/submodular/submax.md
-  - My Team: aegroup/aegroup.md
+  - My Team: aegroup/aegroup_zh.md
   - Teaching（教学）: course/optimization.md
 theme:
   name: material

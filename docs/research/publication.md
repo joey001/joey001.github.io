@@ -8,11 +8,6 @@ lang: en
 
 For the complete, up-to-date publication record, see [DBLP](https://dblp.org/pid/01/1901-16.html) or [Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ&hl=en).
 
-## Research & software highlights
-
-- [Relaxed cliques](relaxcliquesolver/relaxedclique.md): ListPlex, maximum k-defective clique, and maximum s-bundle algorithms.
-- [Submodular optimization](submodular/submax.md): branch-and-bound for submodular maximization under a knapsack constraint. [2025 preprint](https://arxiv.org/abs/2507.11107) · [Code](https://github.com/Chhokmah0/submodKC).
-
 ## Publication archive · 2016–2024
 
 24. Ziliang Xiong, **Yi Zhou**, Mingyu Xiao, Bakhadyr Khoussainov: Finding small feedback arc sets on large graphs. Comput. Oper. Res. 169: 106724 (2024)

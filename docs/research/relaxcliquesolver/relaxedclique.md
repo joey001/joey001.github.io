@@ -43,4 +43,4 @@ We also develop branch-and-bound methods for the maximum *s*-bundle problem, ano
 
 See the [publications page](../publication.md) for related work. Each software repository provides its own usage information.
 
-Interested in graph algorithms? Read our [guidance for prospective students](../../aegroup/aegroup.md#suggestions-for-future-students).
+Interested in graph algorithms? Read our [guidance for prospective students (Chinese)](../../aegroup/aegroup_zh.md#_8).

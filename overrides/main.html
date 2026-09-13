@@ -8,7 +8,7 @@
   {% endif %}
 {% endblock %}
 {% block content %}
-  <div lang="{{ page.meta.lang | default('en') }}">
+  <div lang="{{ 'zh-CN' if page.file.src_uri == 'aegroup/aegroup_zh.md' else page.meta.lang | default('en') }}">
     {{ super() }}
   </div>
 {% endblock %}

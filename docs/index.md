@@ -22,9 +22,6 @@ hide:
 
 我研究组合优化算法，关注算法的理论分析与实际性能：如何为困难的优化问题设计、实现并验证高效的求解方法。
 
-[联系我](mailto:zhou.yi@uestc.edu.cn){ .md-button .md-button--primary }
-[加入小组](aegroup/aegroup.md#suggestions-for-future-students){ .md-button }
-
 <p class="profile-links" markdown>[Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) · [DBLP](https://dblp.org/pid/01/1901-16.html) · [GitHub](https://github.com/joey001)</p>
 
 </div>
@@ -45,39 +42,7 @@ hide:
 !!! note "给未来的同学"
     本校本科生全年均可联系。硕士、博士申请者可先阅读研究方向与相关论文，再来信交流研究兴趣。邮件中建议简要介绍背景、项目经历，以及对某篇论文或某个问题的理解。招生高峰期可能无法逐一回复。
 
-[查看成员与加入建议（English）](aegroup/aegroup.md#suggestions-for-future-students) · [zhou.yi@uestc.edu.cn](mailto:zhou.yi@uestc.edu.cn)
-
-## 代表性研究与代码
-
-<div class="research-grid" markdown>
-
-<div class="research-item" markdown>
-
-### ListPlex
-枚举大规模真实图中的极大 *k*-plex，连接算法分析与高性能实现。
-
-[论文](https://arxiv.org/abs/2202.08737) · [代码](https://github.com/joey001/ListPlex)
-
-</div>
-<div class="research-item" markdown>
-
-### Maximum k-defective Clique
-在大规模图中寻找允许少量缺边的最大团结构。
-
-[研究介绍](research/relaxcliquesolver/relaxedclique.md) · [代码](https://github.com/chenxiaoyu233/k-defective)
-
-</div>
-<div class="research-item" markdown>
-
-### Submodular Optimization
-用精确分支定界方法求解背包约束下的次模函数最大化问题。
-
-[研究介绍](research/submodular/submax.md) · [代码](https://github.com/Chhokmah0/submodKC)
-
-</div>
-</div>
-
-[更多论文（English）](research/publication.md) · [完整论文记录：DBLP](https://dblp.org/pid/01/1901-16.html)
+[查看成员与加入建议](aegroup/aegroup_zh.md#_8) · [zhou.yi@uestc.edu.cn](mailto:zhou.yi@uestc.edu.cn)
 
 ## 教学
 

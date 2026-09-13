@@ -22,9 +22,6 @@ hide:
 
 I study combinatorial optimization, connecting theoretical analysis with practical performance through the design, implementation, and evaluation of efficient algorithms.
 
-[Email me](mailto:zhou.yi@uestc.edu.cn){ .md-button .md-button--primary }
-[Join the group](aegroup/aegroup.md#suggestions-for-future-students){ .md-button }
-
 <p class="profile-links" markdown>[Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) · [DBLP](https://dblp.org/pid/01/1901-16.html) · [GitHub](https://github.com/joey001)</p>
 
 </div>
@@ -45,39 +42,7 @@ The group meets weekly to discuss research, and our lab hosts invited [seminars]
 !!! note "For prospective students"
     UESTC undergraduates can contact us throughout the year. Prospective master's and PhD students are encouraged to explore our research before writing. A useful first email introduces your background, relevant experience, and thoughts on a paper or problem that interests you. I may be unable to reply to every inquiry during peak application periods.
 
-[Members and joining guidance](aegroup/aegroup.md#suggestions-for-future-students) · [zhou.yi@uestc.edu.cn](mailto:zhou.yi@uestc.edu.cn)
-
-## Selected research & software
-
-<div class="research-grid" markdown>
-
-<div class="research-item" markdown>
-
-### ListPlex
-Enumerating maximal *k*-plexes in large real-world graphs, combining algorithm analysis with efficient implementation.
-
-[Paper](https://arxiv.org/abs/2202.08737) · [Code](https://github.com/joey001/ListPlex)
-
-</div>
-<div class="research-item" markdown>
-
-### Maximum k-defective Clique
-Finding large near-clique structures with a limited number of missing edges in massive graphs.
-
-[Overview](research/relaxcliquesolver/relaxedclique.md) · [Code](https://github.com/chenxiaoyu233/k-defective)
-
-</div>
-<div class="research-item" markdown>
-
-### Submodular Optimization
-Exact branch-and-bound methods for submodular function maximization under a knapsack constraint.
-
-[Overview](research/submodular/submax.md) · [Code](https://github.com/Chhokmah0/submodKC)
-
-</div>
-</div>
-
-[More publications](research/publication.md) · [Full publication record on DBLP](https://dblp.org/pid/01/1901-16.html)
+[Members and joining guidance (Chinese)](aegroup/aegroup_zh.md#_8) · [zhou.yi@uestc.edu.cn](mailto:zhou.yi@uestc.edu.cn)
 
 ## Teaching
 
