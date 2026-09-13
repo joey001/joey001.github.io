@@ -14,13 +14,13 @@ hide:
 
 <div class="profile-copy" markdown>
 
-<p class="eyebrow">电子科技大学 · 算法工程</p>
-
 # 周毅 <span class="name-secondary">Yi Zhou</span>
 
 **[电子科技大学计算机科学与工程学院](https://www.scse.uestc.edu.cn/index.htm)教授**，2026 年起任教授，[算法与逻辑实验室](https://tcsuestc.com/)成员。
 
 我研究组合优化算法，关注算法的理论分析与实际性能：如何为困难的优化问题设计、实现并验证高效的求解方法。
+
+**邮箱：** zhou.yi [at] uestc [dot] edu [dot] cn
 
 <p class="profile-links" markdown>[Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) · [DBLP](https://dblp.org/pid/01/1901-16.html) · [GitHub](https://github.com/joey001)</p>
 
@@ -42,7 +42,7 @@ hide:
 !!! note "给未来的同学"
     本校本科生全年均可联系。硕士、博士申请者可先阅读研究方向与相关论文，再来信交流研究兴趣。邮件中建议简要介绍背景、项目经历，以及对某篇论文或某个问题的理解。招生高峰期可能无法逐一回复。
 
-[查看成员与加入建议](aegroup/aegroup_zh.md#_8) · [zhou.yi@uestc.edu.cn](mailto:zhou.yi@uestc.edu.cn)
+[查看成员与加入建议](aegroup/aegroup_zh.md#_8)
 
 ## 教学
 

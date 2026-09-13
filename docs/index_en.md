@@ -14,13 +14,13 @@ hide:
 
 <div class="profile-copy" markdown>
 
-<p class="eyebrow">UESTC · Algorithm Engineering</p>
-
 # Yi Zhou <span class="name-secondary" lang="zh-CN">周毅</span>
 
 **Professor, School of Computer Science and Engineering, [UESTC](https://www.uestc.edu.cn/)**, since 2026. Member of the [Algorithms and Logic Lab](https://tcsuestc.com/), Chengdu, China.
 
 I study combinatorial optimization, connecting theoretical analysis with practical performance through the design, implementation, and evaluation of efficient algorithms.
+
+**Email:** zhou.yi [at] uestc [dot] edu [dot] cn
 
 <p class="profile-links" markdown>[Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) · [DBLP](https://dblp.org/pid/01/1901-16.html) · [GitHub](https://github.com/joey001)</p>
 
@@ -42,7 +42,7 @@ The group meets weekly to discuss research, and our lab hosts invited [seminars]
 !!! note "For prospective students"
     UESTC undergraduates can contact us throughout the year. Prospective master's and PhD students are encouraged to explore our research before writing. A useful first email introduces your background, relevant experience, and thoughts on a paper or problem that interests you. I may be unable to reply to every inquiry during peak application periods.
 
-[Members and joining guidance (Chinese)](aegroup/aegroup_zh.md#_8) · [zhou.yi@uestc.edu.cn](mailto:zhou.yi@uestc.edu.cn)
+[Members and joining guidance (Chinese)](aegroup/aegroup_zh.md#_8)
 
 ## Teaching
 
