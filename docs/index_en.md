@@ -2,30 +2,19 @@
 title: Yi Zhou · Professor at UESTC
 description: Yi Zhou is a Professor at UESTC working on combinatorial optimization and algorithm engineering. Explore research, software, and student opportunities.
 lang: en
-hide:
-  - toc
 ---
 
-<div class="language-switch" aria-label="Homepage language"><a href="../" lang="zh-CN" hreflang="zh-CN">中文</a><span aria-hidden="true"> / </span><strong lang="en">English</strong></div>
+# Yi Zhou 周毅
 
-<div class="profile" markdown>
+<img src="../myphoto.jpg" alt="Yi Zhou" style="zoom:45%;" align="right"/>
 
-<img class="profile-photo" src="../myphoto.jpg" alt="Yi Zhou" width="180" height="240">
-
-<div class="profile-copy" markdown>
-
-# Yi Zhou <span class="name-secondary" lang="zh-CN">周毅</span>
-
-**Professor, School of Computer Science and Engineering, [UESTC](https://www.uestc.edu.cn/)**, since 2026. Member of the [Algorithms and Logic Lab](https://tcsuestc.com/), Chengdu, China.
+Professor, School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Member of the [Algorithms and Logic Lab](https://tcsuestc.com/), Chengdu, China.
 
 I study combinatorial optimization, connecting theoretical analysis with practical performance through the design, implementation, and evaluation of efficient algorithms.
 
 **Email:** zhou.yi [at] uestc [dot] edu [dot] cn
 
-<p class="profile-links" markdown>[Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) · [DBLP](https://dblp.org/pid/01/1901-16.html) · [GitHub](https://github.com/joey001)</p>
-
-</div>
-</div>
+[Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) · [DBLP](https://dblp.org/pid/01/1901-16.html) · [GitHub](https://github.com/joey001)
 
 ## Research interests
 

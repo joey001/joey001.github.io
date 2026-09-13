@@ -16,16 +16,10 @@ theme:
   name: material
   custom_dir: overrides
   language: en
-  font: false
-  palette:
-    primary: custom
-    accent: custom
   features:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-extra_css:
-  - stylesheets/extra.css
 plugins:
   - search:
       lang: [en, zh]

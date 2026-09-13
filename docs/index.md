@@ -2,30 +2,19 @@
 title: 周毅 · 电子科技大学教授
 description: 周毅，电子科技大学教授，研究组合优化与算法工程。了解研究方向、算法工程小组与加入建议。
 lang: zh-CN
-hide:
-  - toc
 ---
 
-<div class="language-switch" aria-label="首页语言"><strong lang="zh-CN">中文</strong><span aria-hidden="true"> / </span><a href="index_en/" lang="en" hreflang="en">English</a></div>
+# 周毅 Yi Zhou
 
-<div class="profile" markdown>
+<img src="./myphoto.jpg" alt="周毅" style="zoom:45%;" align="right"/>
 
-<img class="profile-photo" src="myphoto.jpg" alt="周毅" width="180" height="240">
-
-<div class="profile-copy" markdown>
-
-# 周毅 <span class="name-secondary">Yi Zhou</span>
-
-**[电子科技大学计算机科学与工程学院](https://www.scse.uestc.edu.cn/index.htm)教授**，2026 年起任教授，[算法与逻辑实验室](https://tcsuestc.com/)成员。
+[电子科技大学计算机科学与工程学院](https://www.scse.uestc.edu.cn/index.htm)教授，[算法与逻辑实验室](https://tcsuestc.com/)成员。
 
 我研究组合优化算法，关注算法的理论分析与实际性能：如何为困难的优化问题设计、实现并验证高效的求解方法。
 
 **邮箱：** zhou.yi [at] uestc [dot] edu [dot] cn
 
-<p class="profile-links" markdown>[Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) · [DBLP](https://dblp.org/pid/01/1901-16.html) · [GitHub](https://github.com/joey001)</p>
-
-</div>
-</div>
+[Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) · [DBLP](https://dblp.org/pid/01/1901-16.html) · [GitHub](https://github.com/joey001)
 
 ## 研究方向
 
