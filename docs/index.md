@@ -1,6 +1,6 @@
 <img src="./myphoto.jpg" style="zoom:45%;" align="right"/>
 
-周毅，[电子科技大学计算机科学与工程学院](https://www.scse.uestc.edu.cn/index.htm)副教授，电子科技大学[算法与逻辑实验室](https://tcsuestc.com/)成员。
+周毅，[电子科技大学计算机科学与工程学院](https://www.scse.uestc.edu.cn/index.htm)教授，电子科技大学[算法与逻辑实验室](https://tcsuestc.com/)成员。
 
 我于2017在法国[昂热大学](https://www.univ-angers.fr/fr/index.html)获得博士学位，导师为[Jin-Kao HAO教授](https://leria-info.univ-angers.fr/~jinkao.hao/)和[Adrien Goëffon教授](https://leria-info.univ-angers.fr/~adrien.goeffon/)，2013和2010在电子科技大学分别获得硕士和学士学位。
 
