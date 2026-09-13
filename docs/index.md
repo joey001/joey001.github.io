@@ -1,45 +1,48 @@
-<img src="./myphoto.jpg" style="zoom:45%;" align="right"/>
+---
+title: 周毅 · 电子科技大学教授
+description: 周毅，电子科技大学教授，研究组合优化与算法工程。了解研究方向、算法工程小组与加入建议。
+lang: zh-CN
+---
 
-周毅，[电子科技大学计算机科学与工程学院](https://www.scse.uestc.edu.cn/index.htm)教授，电子科技大学[算法与逻辑实验室](https://tcsuestc.com/)成员。
+# 周毅 Yi Zhou
 
-我于2017在法国[昂热大学](https://www.univ-angers.fr/fr/index.html)获得博士学位，导师为[Jin-Kao HAO教授](https://leria-info.univ-angers.fr/~jinkao.hao/)和[Adrien Goëffon教授](https://leria-info.univ-angers.fr/~adrien.goeffon/)，2013和2010在电子科技大学分别获得硕士和学士学位。
+<img src="./myphoto.jpg" alt="周毅" style="zoom:45%;" align="right"/>
 
-:material-email:邮箱:  zhou.yi[at]uestc[dot]edu[dot]cn
+[电子科技大学计算机科学与工程学院](https://www.scse.uestc.edu.cn/index.htm)教授，[算法与逻辑实验室](https://tcsuestc.com/)成员。
 
+我研究组合优化算法，关注算法的理论分析与实际性能：如何为困难的优化问题设计、实现并验证高效的求解方法。
 
-# 研究方向
+**邮箱：** zhou.yi [at] uestc [dot] edu [dot] cn
 
-我的研究方向主要是组合优化算法，包括算法理论和算法实验。我们主要探索了以下问题：
+[Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) · [DBLP](https://dblp.org/pid/01/1901-16.html) · [GitHub](https://github.com/joey001)
 
-- 图问题：团问题、Steiner树, 网络控制等优化问题等
-- 工业优化问题：卫星调度、生产套料
-- AI中的优化问题：次模优化，决策树
-- LLM在优化算法中的应用
- 
+## 研究方向
 
-具体内容的可参考我的[DBLP](https://dblp.org/pid/01/1901-16.html)或者[google scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) 页面。
-<!-- [:material-file-sign:论文发表](research/publication.md) 或者 -->
+- **图上的组合优化**：研究团、Steiner 树与网络控制等问题，探索精确算法与高效搜索。
+- **工业优化**：面向卫星调度、二维与三维下料等场景，设计实用的求解方法。
+- **AI 中的优化**：研究次模优化、决策树，以及大语言模型在优化算法中的应用。
 
+## 加入算法工程小组
 
-# 算法工程小组
-- 我指导了[UESTC算法工程小组](aegroup/aegroup_zh.md)，由对算法、程序设计、人工智能搜索等技术有强烈兴趣的本科、硕士、博士生组成。
-- 小组氛围融洽，每周都有组内交流讨论，此外大团队还会不定期邀请海内外顶尖院士、专家进行[Seminar](https://tcsuestc.com/seminars/)。
-- 团队主要培养学生发表顶级科研论文。目前本科生已培养了2名成电杰出学生（电子科大最高荣誉），研究生培养出华为天才少年，校级优秀毕业论文，国家一等奖学金等多项荣誉获得者。
-- 学生毕业几乎全部进入了国内外顶尖高校继续深造，或者进入了华为、阿里巴巴、字节跳动等知名企业从事算法研发工作。
+我们欢迎对算法、程序设计和人工智能搜索有兴趣的本科生、硕士生与博士生了解小组。研究工作贯穿问题建模、算法设计、实现优化与实验评估。
 
-<mark>** TIPS: 在考研保研高峰期可能老师无法一一回复。如果在邮件中多谈论一些对我具体论文的理解，会更容易得到回复。**<mark>
+小组每周开展交流讨论，所在实验室也会邀请学者开展 [Seminar](https://tcsuestc.com/seminars/)。往届成员在国内外高校继续深造，或进入华为、阿里巴巴、字节跳动等企业从事算法研发。
 
-<mark>** TIPS: 本校本科生如何加入算法工程小组？参考[<u>加入建议</u>](aegroup/aegroup.md#suggestions-for-future-students)**<mark>
+!!! note "给未来的同学"
+    本校本科生全年均可联系。硕士、博士申请者可先阅读研究方向与相关论文，再来信交流研究兴趣。邮件中建议简要介绍背景、项目经历，以及对某篇论文或某个问题的理解。招生高峰期可能无法逐一回复。
 
-# 研究项目
-主持国家自然基金青年项目、面上项目，CCF-华为胡杨林基金，多个研究所、企业的实验室开放课题。
+[查看成员与加入建议](aegroup/aegroup_zh.md#_8)
 
-# 教学
-+ 2025秋: 高级算法分析与设计，研究生选修课
-+ 2025秋：[<u>最优化算法</u>](course/optimization.md)，核心选修课（珠峰必修课）
-+ 2018秋-2024秋：最优化算法，本科生课程。
-+ 2018秋-2023秋： 大数据专题，本科生课程（创新创业学院）。
-+ 2022春，2022秋，2023秋：高级算法设计与分析，研究生选修课
+## 教学
 
+- **2025 秋**：[最优化算法](course/optimization.md)，本科生核心选修课（珠峰必修课）。
+- **2025 秋**：高级算法分析与设计，研究生选修课。
+- **历年课程**：最优化算法（2018–2024 秋）；大数据专题（2018–2023 秋，创新创业学院）；高级算法设计与分析（2022 春、2022 秋、2023 秋）。
 
+## 教育背景与研究项目
 
+2017 年在法国[昂热大学](https://www.univ-angers.fr/fr/index.html)获得计算机科学博士学位，导师为 [Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/) 与 [Adrien Goëffon](https://leria-info.univ-angers.fr/~adrien.goeffon/)。2013 年和 2010 年在电子科技大学分别获得硕士与学士学位。
+
+主持国家自然科学基金青年项目、面上项目，CCF–华为胡杨林基金，以及研究所、企业的实验室开放课题。
+
+兼任中国计算机学会理论计算机科学专业委员会执行委员、中国运筹学会会员。

@@ -1,34 +1,49 @@
-<img src="../myphoto.jpg" style="zoom:45%;" align="right"/>
+---
+title: Yi Zhou · Professor at UESTC
+description: Yi Zhou is a Professor at UESTC working on combinatorial optimization and algorithm engineering. Explore research, software, and student opportunities.
+lang: en
+---
 
+# Yi Zhou 周毅
 
-Hi, welcome to my personal page. 
+<img src="../myphoto.jpg" alt="Yi Zhou" style="zoom:45%;" align="right"/>
 
-I am Yi Zhou, an associate professor in the computer science department of the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, P.R. China. I am also a member of the [Algorithms and Logic Lab](https://tcsuestc.com/) in UESTC.
+Professor, School of Computer Science and Engineering, [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Member of the [Algorithms and Logic Lab](https://tcsuestc.com/), Chengdu, China.
 
-I obtained PhD degree of Computer Science from the [Universit&eacute; d'Angers, France](https://www.univ-angers.fr/fr/index.html) in 2017. My PhD supervisor is Prof.  [Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/) and Prof. [Adrien Goëffon](https://leria-info.univ-angers.fr/~adrien.goeffon/).I got MS and BS degrees of Computer Science from UESTC in 2010 and 2013, respectively.
+I study combinatorial optimization, connecting theoretical analysis with practical performance through the design, implementation, and evaluation of efficient algorithms.
 
-I am also an executive member of the CCF Theoretical Computer Science Technical Committee, a member of the Operations Research Society of China.
+**Email:** zhou.yi [at] uestc [dot] edu [dot] cn
 
-:material-email: zhou.yi[at]uestc[dot]edu[dot]cn
+[Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) · [DBLP](https://dblp.org/pid/01/1901-16.html) · [GitHub](https://github.com/joey001)
 
-# Research 
-I am interested in the design and analysis of practical algorithms, i.e., algorithms that work well in practice. 
-I also work on some combinatorial search problems on the graphs, such as maximum clique, Steiner tree, and some recently ermeged problems in AI.
-In my institute, I run the [Algorithm Engineering](aegroup/aegroup.md) research group. 
-<!-- My  recent work mainly focus on fast algorithms for some hard graph problems. -->
+## Research interests
 
-You can find my publications in my [DBLP](https://dblp.org/pid/01/1901-16.html) or the [google scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ) page.
+- **Graph optimization**: exact algorithms and efficient search for clique problems, Steiner trees, and network control.
+- **Industrial optimization**: practical methods for satellite scheduling and two- and three-dimensional cutting-stock problems.
+- **Optimization in AI**: submodular optimization, decision trees, and applications of large language models to optimization algorithms.
 
-<!-- In [:material-file-sign:publications](research/publication.md) -->
+## Join the Algorithm Engineering Group
 
-# Courses
+We welcome inquiries from undergraduate, master's, and PhD students interested in algorithms, programming, and AI search. Our work spans modeling, algorithm design, implementation, performance optimization, and experimental evaluation.
 
-Here is a list a courses I taught in UESTC. 
+The group meets weekly to discuss research, and our lab hosts invited [seminars](https://tcsuestc.com/seminars/). Alumni have continued their studies at universities in China and abroad, or pursued algorithm development at companies including Huawei, Alibaba, and ByteDance.
 
-+ 2022.09-2022.11 Optimization Algorithms, for students in CS department.
-+ 2022.03-2022.05 The Design and Analysis of Algorithms, for graduate students in CS department (Yibin Campus). 
-+ 2021.09-2021.11 Optimization Algorithms, for students in CS department.
-+ 2020.09-2020.11 Optimization Algorithms, for students in CS department.
-+ 2019.09-2020.11 Optimization Algorithm, for students in CS department.
-+ 2018.12, 2019.11 Selected Topics of Big Data, for students in Institution of Inovation and Entrepreneurship, UESTC.
-+ 2018.09 Optimization Algorithm. For undergraduates
+!!! note "For prospective students"
+    UESTC undergraduates can contact us throughout the year. Prospective master's and PhD students are encouraged to explore our research before writing. A useful first email introduces your background, relevant experience, and thoughts on a paper or problem that interests you. I may be unable to reply to every inquiry during peak application periods.
+
+[Members and joining guidance (Chinese)](aegroup/aegroup_zh.md#_8)
+
+## Teaching
+
+Course materials are available in Chinese.
+
+- **Autumn 2025**: [Optimization Algorithms（最优化算法）](course/optimization.md), undergraduate course; Advanced Algorithm Analysis and Design, graduate course.
+- **Previous courses**: Optimization Algorithms (autumn 2018–2024); Selected Topics of Big Data (autumn 2018–2023); Advanced Algorithm Design and Analysis (spring 2022, autumn 2022 and 2023).
+
+## Background & support
+
+I received my PhD in Computer Science from the [Université d'Angers](https://www.univ-angers.fr/fr/index.html), France, in 2017, supervised by [Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/) and [Adrien Goëffon](https://leria-info.univ-angers.fr/~adrien.goeffon/). I received my master's degree in 2013 and bachelor's degree in 2010 from UESTC.
+
+My research has been supported by the National Natural Science Foundation of China (Young Scientists and General programs), the CCF–Huawei Populus Grove Fund, and projects with research institutes and industry.
+
+I also serve as an executive member of the CCF Technical Committee on Theoretical Computer Science and a member of the Operations Research Society of China.

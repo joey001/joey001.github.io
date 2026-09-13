@@ -1,5 +1,15 @@
+---
+title: 最优化算法 · 2025 秋
+description: 电子科技大学最优化算法课程，2025 年秋季课程大纲、教学课件与作业资料。
+lang: zh-CN
+---
+
 # 最优化算法-2025秋
-<img src="qp.png" style="zoom:60%;" align="right"/>
+
+!!! note "历年课程资料"
+    本页保存 2025 年秋季课程的大纲、课件与作业，日期和课程安排均对应当学期。
+
+![最优化问题示意图](qp.png){ width="220" style="float:right; max-width:40%; height:auto; margin:0 0 1rem 1rem;" }
 
 最优化算法是人工智能、数据科学等相关专业基础课程。
 本课程从优化问题的建模出发，主要介绍不同优化模型的建模技巧，求解思想，算法步骤，也兼顾对基本的优化理论学习。
@@ -85,4 +95,4 @@
 # 课程资源
 - [在线书籍<Algorithms for Optimization>, 可访问Julia代码](https://mitpress.mit.edu/9780262039420/algorithms-for-optimization/)
 - [南京大学，最优化理论与方法](https://www.icourse163.org/course/NJU-1465971171?from=searchPage&outVendor=zw_mooc_pcssjg_)
-- [pyomo: 基于python开源优化建模语言]https://www.pyomo.org/
+- [Pyomo：基于 Python 的开源优化建模语言](https://www.pyomo.org/)

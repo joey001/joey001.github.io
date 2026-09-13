@@ -1,4 +1,10 @@
-# 🌟 Efficient Branch-and-Bound for Submodular Maximization under Knapsack Constraint
+---
+title: Submodular Optimization
+description: Exact branch-and-bound for submodular maximization under a knapsack constraint, with paper, code, and experimental results.
+lang: en
+---
+
+# Efficient Branch-and-Bound for Submodular Maximization under Knapsack Constraint
 
 *Yimin Hao, Yi Zhou, Chao Xu, Zhang-Hua Fu*
 
@@ -7,19 +13,19 @@ Shenzhen Institute of Artificial Intelligence and Robotics for Society
 
 
 
-## 🧩 Abstract
+## Abstract
 
 We study the **Submodular Knapsack Problem (SKP)** — maximizing a monotone submodular function under a budget. We propose an **exact branch-and-bound** method with a **refined subset upper bound** (tight worst-case guarantee) and a **dual branching** strategy that halves repeated computations. On canonical applications (facility location, weighted coverage, influence maximization, partial dominating set), our method **significantly outperforms** existing exact solvers. 
 
 ---
 
-## 🚀 Why it matters
+## Why it matters
 
 Submodular maximization models real decisions with diminishing returns (e.g., **health-care facility location**, **risk-sensitive planning**, **influence maximization**). In many high-stakes settings, **optimality** is crucial—approximate solutions can be insufficient. Hence the need for **fast exact** algorithms. 
 
 ---
 
-## 🔥 Highlights (What’s new)
+## Highlights
 
 * **Refined Subset Bound (RS)**
   A new upper bound that leverages the greedy expansion sequence; **theoretically ≤ 1/(1−e⁻¹) ≈ 1.582× OPT** when weights are small vs. budget, and **empirically tighter** than prior bounds (domination / fractional-knapsack). 
@@ -46,7 +52,7 @@ Submodular maximization models real decisions with diminishing returns (e.g., **
   Across 200 instances, **dual-rs** delivers the best overall runtime and visits the fewest nodes (especially on DOM). Competes strongly with or beats prior exact solvers (A* variants, ILP) and leading cardinality-specialized combinatorial solvers. 
 ---
 
-## 📊 Experimental Results
+## Experimental results
 
 ### Benchmarks
 
@@ -58,11 +64,11 @@ Four standard submodular problems:
 4. Partial Dominating Set (DOM)
 
 
-## 🖼 Performance Comparison
+## Performance comparison
 
 
-![Fig](experiments.png)
-Number of Instances Solved vs Time ( Branching nodes). The lower the better.The final algorithn __Dual-RS__ achieves the fastest convergence and solves the most instances within the time limit across all datasets.
+![Experimental comparison of submodular optimization solvers](experiments.png)
+Comparison of solver performance across the benchmark datasets.
 
 ---
 
@@ -71,7 +77,7 @@ Number of Instances Solved vs Time ( Branching nodes). The lower the better.The 
 
 ---
 
-## 🏅 Citation
+## Citation
 
 If you use this work, please cite:
 
@@ -86,7 +92,7 @@ If you use this work, please cite:
       url={https://arxiv.org/abs/2507.11107}, 
 }
 ```
-The paper will be presented at ECAI-2025.
+[Read the paper on arXiv](https://arxiv.org/abs/2507.11107).
 
 ---
 

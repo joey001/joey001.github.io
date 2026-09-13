@@ -1,58 +1,46 @@
-body {
-  background-attachment: fixed;
-  background-image:
-    linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
-    url("../background.png");
-  background-position: center top;
-  background-repeat: no-repeat;
-  background-size: cover;
+:root {
+  --md-primary-fg-color: #174b70;
+  --md-primary-fg-color--light: #276388;
+  --md-primary-fg-color--dark: #10364f;
+  --md-accent-fg-color: #17688d;
+  --md-default-bg-color: #ffffff;
+  --md-text-font: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+  --md-code-font: Consolas, monospace;
 }
-
-.md-main,
-.md-main__inner {
-  background: transparent;
+.md-grid { max-width: 1280px; }
+.md-typeset { font-size: .85rem; line-height: 1.8; }
+.md-typeset h1 { color: #183449; font-weight: 650; letter-spacing: -.035em; }
+.md-typeset h2 { color: #183449; font-weight: 600; margin-top: 2.2em; }
+.md-typeset h3 { font-weight: 600; }
+.md-typeset a { text-underline-offset: .18em; }
+.md-typeset a:hover { text-decoration: underline; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid #a46008; outline-offset: 4px; }
+.language-switch { text-align: right; font-size: .8rem; margin-bottom: 1.2rem; }
+.language-switch span { color: #737d85; padding: 0 .4rem; }
+.profile { display: grid; grid-template-columns: minmax(0, 1fr) 180px; gap: 2rem; padding: .5rem 0 1.6rem; border-bottom: 1px solid #dce5eb; }
+.profile-copy { grid-column: 1; grid-row: 1; }
+.profile-photo { grid-column: 2; grid-row: 1; width: 180px; height: auto; max-height: 260px; object-fit: contain; border-radius: 4px; }
+.profile .eyebrow { color: #466479; text-transform: uppercase; font-size: .7rem; letter-spacing: .09em; font-weight: 650; margin: 0 0 .55rem; }
+.profile h1 { margin: 0 0 .7rem; font-size: 2.2rem; line-height: 1.2; }
+.name-secondary { font-size: .58em; font-weight: 400; color: #5d707e; letter-spacing: 0; margin-left: .2em; }
+.md-typeset .md-button { padding: .45em 1em; border-radius: 4px; border-width: 1px; font-size: .8rem; margin: .3rem .4rem .3rem 0; }
+.profile-links { font-size: .78rem; margin-bottom: 0; }
+.research-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.2rem; margin-top: 1rem; }
+.research-item { border-top: 3px solid #276388; padding-top: .65rem; }
+.research-item h3 { margin-top: 0; font-size: .9rem; line-height: 1.45; }
+.research-item p { font-size: .8rem; }
+.md-typeset .admonition { font-size: .8rem; border-radius: 4px; box-shadow: none; }
+.md-typeset table:not([class]) { font-size: .78rem; }
+.course-illustration { float: right; width: min(40%, 280px); height: auto; margin: 0 0 1rem 1.5rem; }
+@media (max-width: 700px) {
+  .profile { grid-template-columns: minmax(0, 1fr) 110px; gap: 1rem; }
+  .profile-photo { width: 110px; }
+  .profile h1 { font-size: 1.8rem; }
+  .research-grid { grid-template-columns: 1fr; gap: .7rem; }
+  .research-item p { margin-top: .5em; }
 }
-
-.md-content,
-.md-content__inner,
-.md-search__scrollwrap,
-.md-typeset table:not([class]) {
-  background-color: rgba(255, 255, 255, 0.56);
-  backdrop-filter: blur(6px);
-}
-
-.md-content__inner,
-.md-search__scrollwrap {
-  border-radius: 1rem;
-  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.12);
-}
-
-.md-content__inner {
-  padding: 1.2rem 1.4rem;
-}
-
-.md-sidebar__inner,
-.md-nav {
-  background: transparent;
-  box-shadow: none;
-}
-
-.md-sidebar--primary .md-nav {
-  background-color: rgba(255, 255, 255, 0.34);
-  border-radius: 0.9rem;
-  backdrop-filter: blur(4px);
-}
-
-.md-sidebar--secondary {
-  background: transparent;
-}
-
-.md-sidebar--secondary:not(:has(.md-nav__list)) {
-  display: none;
-}
-
-.md-header,
-.md-tabs {
-  background-color: rgba(25, 118, 210, 0.88);
-  backdrop-filter: blur(6px);
+@media (max-width: 450px) {
+  .profile { display: flex; flex-direction: column; }
+  .profile-photo { width: 100px; align-self: flex-start; }
+  .course-illustration { float: none; width: min(100%, 280px); margin: 0 0 1rem; }
 }

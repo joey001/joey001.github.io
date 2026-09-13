@@ -1,4 +1,14 @@
-## Publications (The [DBLP](https://dblp.org/pid/01/1901-16.html) and [Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ&hl=zh-CN) pages are more up-to-date.)
+---
+title: Publications
+description: Selected publications by Yi Zhou in combinatorial optimization, graph algorithms, and algorithm engineering, with paper and software links.
+lang: en
+---
+
+# Publications
+
+For the complete, up-to-date publication record, see [DBLP](https://dblp.org/pid/01/1901-16.html) or [Google Scholar](https://scholar.google.com/citations?user=8MvNCXAAAAAJ&hl=en).
+
+## Publication archive · 2016–2024
 
 24. Ziliang Xiong, **Yi Zhou**, Mingyu Xiao, Bakhadyr Khoussainov: Finding small feedback arc sets on large graphs. Comput. Oper. Res. 169: 106724 (2024)
 

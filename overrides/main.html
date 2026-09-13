@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block extrahead %}
+  {{ super() }}
+  {% if page and page.file.src_uri in ["index.md", "index_en.md"] %}
+    <link rel="alternate" hreflang="zh-CN" href="{{ config.site_url }}">
+    <link rel="alternate" hreflang="en" href="{{ config.site_url }}index_en/">
+    <link rel="alternate" hreflang="x-default" href="{{ config.site_url }}">
+  {% endif %}
+{% endblock %}
+{% block content %}
+  <div lang="{{ 'zh-CN' if page.file.src_uri == 'aegroup/aegroup_zh.md' else page.meta.lang | default('en') }}">
+    {{ super() }}
+  </div>
+{% endblock %}
